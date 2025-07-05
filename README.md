@@ -16,7 +16,7 @@ I'm an engineering student passionate about building intelligent systems that br
 
 ### 🧠 Interests
 - Embodied and Physical AI
-- GPU/CUDA Programming
+- Deep Learning and Transformers
 - Robotics and Embedded Systems
 - AI/ML Applications
 
