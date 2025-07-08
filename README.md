@@ -7,7 +7,7 @@ I'm an engineering student passionate about building intelligent systems that br
 ---
 
 ### 🛠️ Current Focus
-- 🌋 AI/ML Research Intern @ NASA/JPL – Mapping tectonic features on Venus using ML and GIS
+- 🌋 AI/ML Research Intern @ NASA/JPL – Optimizing transformers for semantic segmentation
 - 🧮 AI Note-Taking App research project focused on MCP and agentic RAG integration
 - 🦾 Multi-agent simulation with Isaac Sim, RL, and ROS 2
 - 📚 Learning: Kernel development, GPU programming, Transformer math, ROS 2
@@ -35,7 +35,7 @@ I'm an engineering student passionate about building intelligent systems that br
 
 ### 📫 Let's Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/evanjchou/)  
-- 📧 evan.chou@live.com  
+- 📧 e3chou@ucsd.edu  
 - 🧠 Electrical Engineering at UC San Diego
 - 🛠️ [Portfolio Website](https://evanjaychou.github.io/portfolio/)
 
