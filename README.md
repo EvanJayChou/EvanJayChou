@@ -10,7 +10,7 @@ I'm an engineering student passionate about building intelligent systems that br
 - 🌋 AI/ML Research Intern @ NASA/JPL – Optimizing transformers for semantic segmentation
 - 🧮 AI Note-Taking App research project focused on MCP and agentic RAG integration
 - 🦾 Multi-agent simulation with Isaac Sim, RL, and ROS 2
-- 📚 Learning: Kernel development, GPU programming, Transformer math, ROS 2
+- 📚 Learning: ROS 2, Perception Systems, and Sim2Real Integrations in Robotics
 
 ---
 
@@ -24,7 +24,6 @@ I'm an engineering student passionate about building intelligent systems that br
 
 ### 💻 Tools & Technologies
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMjAgMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iI0ZGMDAwMCIvPjwvc3ZnPg==)
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/-ROS%202-22314E?logo=ros&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
