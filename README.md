@@ -43,4 +43,4 @@ I'm an engineering student passionate about building intelligent systems that br
 <!-- Optional GitHub Stats -->
 <!-- ![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanchou&show_icons=true&theme=radical) -->
 
-> “The best way to predict the future is to invent it.” – Alan Kay
+> “Our intelligence is what makes us human, and AI is an extension of that quality.” – Yann LeCun
