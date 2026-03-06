@@ -7,9 +7,9 @@ I'm an engineering student passionate about building intelligent systems that br
 ---
 
 ### 🛠️ Current Focus
-- 🌋 AI/ML Research Intern @ NASA/JPL – Optimizing transformers for semantic segmentation
-- 🧮 AI Note-Taking App research project focused on MCP and agentic RAG integration
-- 🦾 Multi-agent simulation with Isaac Sim, RL, and ROS 2
+- 🧮 AI/ML Research Engineer @ UCSD's Qualcomm Institute – Orchestrating agentic AI systems for telecomms
+- 🦾 Building intelligent robotics systems through deep RL, ROS 2, and Isaac Sim or MuJoCo
+- ⚡ Designing printed circuit boards for power distribution and motor control
 - 📚 Learning: ROS 2, Perception Systems, and Sim2Real Integrations in Robotics
 
 ---
