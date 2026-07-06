@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Evan Chou
 
-🚀 Aspiring AI/ML Engineer and Data Scientist | 🤖 Robotics Enthusiast | 🧠 Deep Learning Explorer
+🚀 Aspiring AI/ML Engineer and Roboticist | 🤖 R&D Enthusiast | 🧠 Deep Learning Applications
 
 I'm an engineering student passionate about building intelligent systems that bridge AI, robotics, and the physical world. I love creating projects that combine low-level systems, CUDA programming, reinforcement learning, and real-world robotics using platforms like NVIDIA Isaac Sim and ROS 2. I am also passionate about application development with AI/ML workflows and agentic AI integration.
 
 ---
 
 ### 🛠️ Current Focus
-- 🧮 AI/ML Research Engineer @ UCSD's Qualcomm Institute – Orchestrating agentic AI systems for telecomms
+- 🧮 Researching Vision-Language-Action models for robotics applications in humanoid AI and autonomous vehicles
 - 🦾 Building intelligent robotics systems through deep RL, ROS 2, and Isaac Sim or MuJoCo
-- ⚡ Designing printed circuit boards for power distribution and motor control
+- ⚡ Designing PCBs for power distribution and motor control
 - 📚 Learning: ROS 2, Perception Systems, and Sim2Real Integrations in Robotics
 
 ---
@@ -35,7 +35,7 @@ I'm an engineering student passionate about building intelligent systems that br
 ### 📫 Let's Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/evanjchou/)  
 - 📧 e3chou@ucsd.edu  
-- 🧠 Electrical Engineering at UC San Diego
+- 🧠 B.S. Electrical Engineering at UC San Diego
 - 🛠️ [Portfolio Website](https://evanjaychou.github.io/portfolio/)
 
 ---
