@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Evan Chou
 
-🚀 Aspiring AI/ML Engineer and Roboticist | 🤖 R&D Enthusiast | 🧠 Deep Learning Applications
+🚀 Aspiring AI/ML Engineer and Roboticist | 🤖 R&D Enthusiast | 🧠 Physical AI Applications
 
-I'm an engineering student passionate about building intelligent systems that bridge AI, robotics, and the physical world. I love creating projects that combine low-level systems, CUDA programming, reinforcement learning, and real-world robotics using platforms like NVIDIA Isaac Sim and ROS 2. I am also passionate about application development with AI/ML workflows and agentic AI integration.
+I'm an engineering student passionate about building intelligent systems that bridge AI, robotics, and the physical world. I love creating projects that combine low-level embedded systems, AI perception systems, reinforcement learning, and real-world robotics using platforms like NVIDIA Isaac Sim, ROS 2, and PyTorch. I am also passionate about researching and developing agentic systems and integrating the latest robotic foundation models.
 
 ---
 
 ### 🛠️ Current Focus
 - 🧮 Researching Vision-Language-Action models for robotics applications in humanoid AI and autonomous vehicles
 - 🦾 Building intelligent robotics systems through deep RL, ROS 2, and Isaac Sim or MuJoCo
-- ⚡ Designing PCBs for power distribution and motor control
+- ⚡ Designing full-stack projects with PCBs, hardware, and embedded firmware
 - 📚 Learning: ROS 2, Perception Systems, and Sim2Real Integrations in Robotics
 
 ---
@@ -24,7 +24,6 @@ I'm an engineering student passionate about building intelligent systems that br
 
 ### 💻 Tools & Technologies
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![CUDA](https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/-ROS%202-22314E?logo=ros&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
